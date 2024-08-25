@@ -2,6 +2,10 @@
 
 A starter program for JS games.
 
+# JavaScript
+
+Game developed for the purposes of learning JavaScript.
+
 ## Usage
 
 1. Include gamelet.js in an HTML document containing an element with an id of 'ball'.
